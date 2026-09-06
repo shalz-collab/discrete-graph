@@ -1,0 +1,6 @@
+{
+  "name": "Graph-Based Smart Route Planner",
+  "description": "SIMATS Engineering discrete mathematics portal featuring real-time urban road network routing, spectral graph matrices, Kirchhoff's theorem, binary relations, K-Maps, and academic thesis dossier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
